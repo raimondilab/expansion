@@ -1,2 +1,0 @@
-symbol	tx_id	uniprot_splice_var	reference	protein_sequence	protein_domain_id	cdhit	Seq_id
-PRAC1	ENST00000290294	Q96KF2	*	MLCAHFSDQGPAHLTTSKSAFLSNKKTSTLKHLLGETRSDGSACNSGISGGRGRKIP	-	0	PRAC1|ENST00000290294|Q96KF2|*

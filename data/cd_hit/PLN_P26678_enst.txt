@@ -1,2 +1,0 @@
-symbol	tx_id	uniprot_splice_var	reference	protein_sequence	protein_domain_id	cdhit	Seq_id
-PLN	ENST00000357525	P26678	*	MEKVQYLTRSAIRRASTIEMPQQARQKLQNLFINFCLILICLLLICIIVMLL	PF04272	0	PLN|ENST00000357525|P26678|*

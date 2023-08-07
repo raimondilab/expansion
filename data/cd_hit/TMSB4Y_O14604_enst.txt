@@ -1,2 +1,0 @@
-symbol	tx_id	uniprot_splice_var	reference	protein_sequence	protein_domain_id	cdhit	Seq_id
-TMSB4Y	ENST00000284856	O14604	*	MSDKPGMAEIEKFDKSKLKKTETQEKNPLSSKETIEQERQAGES	PS00500	0	TMSB4Y|ENST00000284856|O14604|*

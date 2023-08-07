@@ -1,2 +1,0 @@
-symbol	tx_id	uniprot_splice_var	reference	protein_sequence	protein_domain_id	cdhit	Seq_id
-RPL39	ENST00000361575	P62891	*	MSSHKTFRIKRFLAKKQKQNRPIPQWIRMKTGNKIRYNSKRRHWRRTKLGL	PS00051	0	RPL39|ENST00000361575|P62891|*

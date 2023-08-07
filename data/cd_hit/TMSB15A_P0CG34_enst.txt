@@ -1,2 +1,0 @@
-symbol	tx_id	uniprot_splice_var	reference	protein_sequence	protein_domain_id	cdhit	Seq_id
-TMSB15A	ENST00000289373	P0CG34	*	MSDKPDLSEVEKFDRSKLKKTNTEEKNTLPSKETIQQEKECVQTS	PS00500	0	TMSB15A|ENST00000289373|P0CG34|*
