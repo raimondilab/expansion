@@ -15,8 +15,13 @@ Welcome to the EXPANSION Complementary Repository!
 
 Explore the functional implications of protein-coding alternative splice variants with [EXPANSION](https://expansion.bioinfolab.sns.it/), an integrated web-server designed to unravel the impact of alternative splicing in cancer genomics. This repository houses the data, scripts, and resources supporting the research paper. Combined with DE protein-coding transcripts, domain analysis, protein interactions, and gene enrichment, EXPANSION offers an intuitive glimpse into the effects of splice variants. Dive into Ensembl transcripts, Interpro domains, PTMs, and more, to uncover functionally significant splicing events. Analyze pre-calculated or custom DE transcript datasets effortlessly, accelerating your journey to gain insights into protein spliceforms.
 
+## Workflow
+We analyzed Ensembl transcripts  and their corresponding protein sequences. We clustered the protein sequences, aligned them, and compared them to Uniprot canonical sequences to identify differences in alternatively spliced isoforms.
+<div align="center">
+<img src="https://github.com/raimondilab/expansion/blob/main/expansion_workflow_about.svg" alt="logo" width="400"/>
+</div>
 
-## This is the pipeline with a brief description of codes and data used:
+## The pipeline with a brief description of codes and data used:
 1. gene_list : the list of protein coding genes from [HGNC](https://www.genenames.org/download/statistics-and-files/) 
 2. tx_ensembldb.R: transcript to various annotation such as sequences, length, identifiers etc.
 3. extracting .fa to fasta folder using the command (fasta.sh)
@@ -34,13 +39,7 @@ cd-hit -d 70 -c 0.6 -t 3 -i /home/carora/splice_pipeline_new3/fasta/${line}.fa -
 8. msa_diff_pos_annotate.py
 9. EBSEQ
 
-## Workflow
-We analyzed Ensembl transcripts  and their corresponding protein sequences. We clustered the protein sequences, aligned them, and compared them to Uniprot canonical sequences to identify differences in alternatively spliced isoforms.
-<div align="center">
-<img src="https://github.com/raimondilab/expansion/blob/main/expansion_workflow_about.svg" alt="logo" width="400"/>
-</div>
-
-### Contacts 
+#### Contacts 
 Francesco Raimondi: francesco.raimondi@sns.it<br>
 Chakit Arora: chakit.arora@sns.it<br>
 Natalia de Oliveira Rosa: natalia.deoliveirarosa@sns.it
