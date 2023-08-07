@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CCR6|ENST00000349984|P51684|	nan	nan	nan	nan	nan	nan
-CCR6|ENST00000400926|P51684|	nan	nan	nan	nan	nan	nan

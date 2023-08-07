@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ATF4|ENST00000396680|P18848|	nan	nan	nan	nan	nan	nan
-ATF4|ENST00000404241|P18848|	nan	nan	nan	nan	nan	nan

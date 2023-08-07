@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-B4GALT3|ENST00000367998|O60512-1|	nan	nan	nan	nan	nan	nan
-B4GALT3|ENST00000622395|O60512-1|	nan	nan	nan	nan	nan	nan

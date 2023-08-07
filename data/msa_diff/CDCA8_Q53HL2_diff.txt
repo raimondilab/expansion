@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CDCA8|ENST00000373055|Q53HL2|	nan	nan	nan	nan	nan	nan

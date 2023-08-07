@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-AUH|ENST00000303617|Q13825-2|	nan	[140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168]	nan	['IPR029045:ClpP/crotonase-like domain superfamily']	['144:ac', '152:p', '159:p']	nan

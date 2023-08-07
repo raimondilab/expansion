@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CDC20|ENST00000372462|Q12834|	nan	nan	nan	nan	nan	nan

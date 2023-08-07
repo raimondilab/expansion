@@ -1,4 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CD200R1L|ENST00000448932|A0A0A0MT53|	nan	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]	[268, 270]	nan	nan	nan
-CD200R1L|ENST00000488794|Q6Q8B3-2|	nan	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]	nan	nan	nan	nan
-CD200R1L|ENST00000617549|A0A087WT28|	nan	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 269, 270, 271]	nan	nan	nan	nan

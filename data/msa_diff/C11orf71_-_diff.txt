@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-C11orf71|ENST00000325636|Q6IPW1-2|	[121, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147]	nan	[115, 116, 117, 118, 119, 120, 122, 124]	['IPR010961:Tetrapyrrole biosynthesis, 5-aminolevulinic acid synthase']	nan	nan

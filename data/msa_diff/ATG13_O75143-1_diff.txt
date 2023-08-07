@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ATG13|ENST00000526508|O75143-1|	nan	nan	nan	nan	nan	nan

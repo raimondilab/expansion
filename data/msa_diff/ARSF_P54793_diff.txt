@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ARSF|ENST00000381127|P54793|	nan	nan	nan	nan	nan	nan

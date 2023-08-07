@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ACOT1|ENST00000557556|G3V4F2|	nan	[221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246]	nan	['IPR029058_2:Alpha/Beta hydrolase fold']	['232:p']	nan

@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ACO1|ENST00000379923|P21399|	nan	nan	nan	nan	nan	nan
-ACO1|ENST00000541043|P21399|	nan	nan	nan	nan	nan	nan

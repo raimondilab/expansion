@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ABCF3|ENST00000292808|Q9NUQ8-2|	nan	[69, 70, 71, 72, 73, 74]	nan	nan	nan	nan

@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CCDC137|ENST00000574107|I3L0U5|	[90, 91, 92, 93, 94, 95, 96, 97, 98]	[293, 294, 295, 296, 297, 298]	nan	nan	nan	nan

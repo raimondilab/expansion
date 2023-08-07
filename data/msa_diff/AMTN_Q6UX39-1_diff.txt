@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-AMTN|ENST00000504451|Q6UX39-2|	nan	[19]	nan	nan	nan	"[""19:['Q8IXL6', 'Q96MK3', 'Q8IXL6']""]"

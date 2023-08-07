@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CD2BP2|ENST00000569466|O95400|	nan	nan	nan	nan	nan	nan

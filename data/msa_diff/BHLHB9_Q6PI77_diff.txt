@@ -1,5 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-BHLHB9|ENST00000372735|Q6PI77|	nan	nan	nan	nan	nan	nan
-BHLHB9|ENST00000447531|Q6PI77|	nan	nan	nan	nan	nan	nan
-BHLHB9|ENST00000448867|Q6PI77|	nan	nan	nan	nan	nan	nan
-BHLHB9|ENST00000457056|Q6PI77|	nan	nan	nan	nan	nan	nan

@@ -1,4 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ATP6V0E1|ENST00000265093|J3KN48|	nan	[35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]	[51]	nan	nan	nan
-ATP6V0E1|ENST00000519374|O15342|	nan	nan	nan	nan	nan	nan
-ATP6V0E1|ENST00000519911|E5RHL5|	nan	[59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81]	[51, 52, 53, 54, 55, 56, 57, 58]	nan	nan	nan

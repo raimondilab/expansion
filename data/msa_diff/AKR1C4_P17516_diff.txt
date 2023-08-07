@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-AKR1C4|ENST00000380448|P17516|	nan	nan	nan	nan	nan	nan

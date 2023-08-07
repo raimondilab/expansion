@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CATSPER4|ENST00000338855|J3KNU1|	[470, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483]	nan	[457, 458, 459, 461, 462, 463, 464, 465, 466, 467, 468, 469, 471, 473]	nan	['466:ub']	nan

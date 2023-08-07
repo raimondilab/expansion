@@ -1,6 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CACNA2D2|ENST00000266039|Q9NY47-3|	[1078, 1079]	[662, 663, 664, 665, 666, 667, 668]	[669, 1080]	['IPR013680:Voltage-dependent calcium channel, alpha-2/delta subunit, conserved region']	nan	nan
-CACNA2D2|ENST00000360963|Q9NY47-4|	[1078, 1079]	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 662, 663, 664, 665, 666, 667, 668]	[669, 1080]	['IPR013680:Voltage-dependent calcium channel, alpha-2/delta subunit, conserved region']	nan	nan
-CACNA2D2|ENST00000423994|C9JVC9|	[870, 1078, 1079]	nan	[871, 1080]	['IPR013680:Voltage-dependent calcium channel, alpha-2/delta subunit, conserved region']	nan	nan
-CACNA2D2|ENST00000424201|Q9NY47-2|	nan	[662, 663, 664, 665, 666, 667, 668]	[669]	nan	nan	nan
-CACNA2D2|ENST00000429770|C9JE82|	[870]	[662, 663, 664, 665, 666, 667, 668]	[669, 871]	['IPR013680:Voltage-dependent calcium channel, alpha-2/delta subunit, conserved region']	nan	nan

@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-BORCS7|ENST00000369883|Q96B45|	nan	nan	nan	nan	nan	nan

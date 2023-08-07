@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-APOL5|ENST00000617827|A0A0G2JME4|	nan	nan	[272, 406]	nan	['406:p']	nan

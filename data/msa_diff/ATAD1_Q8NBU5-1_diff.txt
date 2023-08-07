@@ -1,4 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ATAD1|ENST00000328142|Q8NBU5-1|	nan	nan	nan	nan	nan	nan
-ATAD1|ENST00000634773|Q8NBU5-1|	nan	nan	nan	nan	nan	nan
-ATAD1|ENST00000634970|Q8NBU5-1|	nan	nan	nan	nan	nan	nan

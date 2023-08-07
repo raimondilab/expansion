@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-AAR2|ENST00000373932|Q9Y312|	nan	nan	nan	nan	nan	nan
-AAR2|ENST00000397286|A2A2Q9|	[335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 365, 376, 377]	[399, 400]	[330, 331, 332, 333, 334, 348, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 366, 368, 369, 371, 372, 373, 374, 375, 378, 379, 380, 381, 382, 383, 384, 385, 387, 388, 389, 391, 392, 393, 394, 395, 397, 398]	['IPR038514:AAR2, C-terminal domain superfamily']	['347:ub', '350:ub', '357:ub']	nan

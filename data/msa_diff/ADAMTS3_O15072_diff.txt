@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ADAMTS3|ENST00000622135|O15072|	nan	nan	nan	nan	nan	nan

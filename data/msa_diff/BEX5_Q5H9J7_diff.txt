@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-BEX5|ENST00000543160|Q5H9J7|	nan	nan	nan	nan	nan	nan

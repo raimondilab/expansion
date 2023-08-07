@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-AZIN2|ENST00000373441|Q96A70-2|	[306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325]	nan	nan	['IPR009006:Alanine racemase/group IV decarboxylase, C-terminal']	nan	nan
-AZIN2|ENST00000373443|Q96A70-1|	nan	nan	nan	nan	nan	nan

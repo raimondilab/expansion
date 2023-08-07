@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CDKN2C|ENST00000371761|P42773|	nan	nan	nan	nan	nan	nan
-CDKN2C|ENST00000396148|P42773|	nan	nan	nan	nan	nan	nan

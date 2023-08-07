@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CDHR2|ENST00000506348|Q9BYE9|	nan	nan	nan	nan	nan	nan
-CDHR2|ENST00000510636|Q9BYE9|	nan	nan	nan	nan	nan	nan

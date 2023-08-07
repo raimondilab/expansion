@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ARG1|ENST00000356962|P05089-2|	[44, 45, 46, 47, 48, 49, 50, 51]	nan	nan	['IPR023696:Ureohydrolase domain superfamily']	nan	nan

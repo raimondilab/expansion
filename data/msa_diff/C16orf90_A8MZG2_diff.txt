@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-C16orf90|ENST00000399645|H0Y3R3|	[1, 2, 3, 4, 5, 6, 7, 8, 9]	nan	[10, 11, 12, 14, 15, 16, 17, 18, 19, 22, 23, 24]	nan	nan	nan

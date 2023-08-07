@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CCL25|ENST00000253451|O15444-3|	nan	[109]	nan	['IPR036048:Chemokine interleukin-8-like superfamily']	nan	nan
-CCL25|ENST00000315626|C9JDZ7|	nan	nan	[150]	nan	nan	nan

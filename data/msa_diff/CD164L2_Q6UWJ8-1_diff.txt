@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CD164L2|ENST00000374027|Q6UWJ8-2|	nan	[174]	nan	nan	nan	nan

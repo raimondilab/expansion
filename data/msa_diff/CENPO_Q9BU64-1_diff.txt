@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CENPO|ENST00000380834|Q9BU64-1|	nan	nan	nan	nan	nan	nan
-CENPO|ENST00000473706|Q9BU64-2|	nan	[1, 2, 3, 4, 5, 6]	[7, 8, 9, 10, 11, 12, 14, 15]	nan	nan	nan

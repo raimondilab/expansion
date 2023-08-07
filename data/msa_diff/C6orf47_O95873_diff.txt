@@ -1,7 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-C6orf47|ENST00000366431|O95873|	nan	nan	[68]	nan	nan	nan
-C6orf47|ENST00000366432|O95873|	nan	nan	[68]	nan	nan	nan
-C6orf47|ENST00000413113|O95873|	nan	nan	[68]	nan	nan	nan
-C6orf47|ENST00000418357|O95873|	nan	nan	[68]	nan	nan	nan
-C6orf47|ENST00000431256|O95873|	nan	nan	[68]	nan	nan	nan
-C6orf47|ENST00000442972|O95873|	nan	nan	nan	nan	nan	nan

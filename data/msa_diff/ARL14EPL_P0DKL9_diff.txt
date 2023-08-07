@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ARL14EPL|ENST00000634632|P0DKL9|	nan	nan	nan	nan	nan	nan

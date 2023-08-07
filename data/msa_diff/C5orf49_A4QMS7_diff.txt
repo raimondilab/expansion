@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-C5orf49|ENST00000509627|D6RHK3|	nan	[88, 89]	[90]	nan	nan	nan

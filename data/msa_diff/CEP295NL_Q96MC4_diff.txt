@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CEP295NL|ENST00000619342|Q96MC4|	nan	nan	nan	nan	nan	nan

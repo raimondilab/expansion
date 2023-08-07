@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ACOT13|ENST00000537591|Q9NPJ3-2|	nan	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]	[24, 25, 26]	['IPR029069:HotDog domain superfamily']	['2:p', '3:p', '7:p', '13:ub']	nan

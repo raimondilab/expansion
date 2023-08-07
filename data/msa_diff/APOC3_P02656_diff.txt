@@ -1,4 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-APOC3|ENST00000375345|B0YIW2|	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]	nan	nan	nan	nan	nan
-APOC3|ENST00000433777|C9J2Q0|	nan	[74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117]	nan	['IPR038195:Apolipoprotein CIII superfamily']	['82:p', '94:p', '95:p']	nan
-APOC3|ENST00000630701|B0YIW2|	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]	nan	nan	nan	nan	nan

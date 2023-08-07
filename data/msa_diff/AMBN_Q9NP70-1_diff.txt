@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-AMBN|ENST00000449493|Q9NP70-2|	nan	[98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112]	nan	nan	nan	nan
-AMBN|ENST00000613447|A0A087WV21|	nan	[179]	[180]	nan	nan	nan

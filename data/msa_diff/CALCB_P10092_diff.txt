@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CALCB|ENST00000523376|E7ESF5|	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]	nan	nan	nan	nan	nan
-CALCB|ENST00000533448|P10092|	nan	nan	nan	nan	nan	nan

@@ -1,5 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-APOBEC3A|ENST00000402255|P31941-1|	nan	nan	nan	nan	nan	nan
-APOBEC3A|ENST00000570508|P31941-1|	nan	nan	nan	nan	nan	nan
-APOBEC3A|ENST00000618553|P31941-1|	nan	nan	nan	nan	nan	nan
-APOBEC3A|ENST00000623492|P31941-1|	nan	nan	nan	nan	nan	nan

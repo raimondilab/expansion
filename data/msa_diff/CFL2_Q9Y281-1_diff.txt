@@ -1,4 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CFL2|ENST00000341223|Q9Y281-1|	nan	nan	nan	nan	nan	nan
-CFL2|ENST00000555765|Q9Y281-3|	nan	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]	nan	['IPR029006:ADF-H/Gelsolin-like domain superfamily']	['3:p', '13:ub']	nan
-CFL2|ENST00000556161|Q9Y281-3|	nan	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]	nan	['IPR029006:ADF-H/Gelsolin-like domain superfamily']	['3:p', '13:ub']	nan

@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-AQP12A|ENST00000429564|C9J6F6|	[42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53]	nan	nan	['IPR023271:Aquaporin-like']	nan	nan

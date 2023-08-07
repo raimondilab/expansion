@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CDH22|ENST00000372262|-|	nan	nan	nan	nan	nan	nan

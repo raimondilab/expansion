@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CCL19|ENST00000378800|Q5VZ75|	[99, 100, 101, 102, 103, 104]	nan	[93, 94, 95, 96, 97, 98]	['IPR036048:Chemokine interleukin-8-like superfamily']	nan	nan

@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ADGRF5|ENST00000283296|Q8IZF2-1|	nan	nan	nan	nan	nan	nan

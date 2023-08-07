@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ARPC5|ENST00000294742|O15511-2|	[49, 50, 51]	nan	[48]	['IPR036743:Actin-related protein 2/3 complex subunit 5 superfamily']	nan	nan
-ARPC5|ENST00000367534|B1ALC0|	nan	[139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154]	[135, 136, 137, 138]	['IPR036743:Actin-related protein 2/3 complex subunit 5 superfamily']	['140:p', '146:p']	nan

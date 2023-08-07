@@ -1,5 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-AP1S2|ENST00000380291|A6NH01|	[144, 145, 146]	nan	[143, 147, 148, 149, 150, 151, 153, 154, 155, 156, 157, 158, 159, 160]	nan	['146:p']	nan
-AP1S2|ENST00000450644|H7BZG6|	[144, 145, 146]	[1, 2, 3, 4, 5, 6, 7, 154, 155, 156, 157, 158, 159, 160]	[8, 143, 147, 148, 149, 150, 151, 152, 153]	['IPR022775:AP complex, mu/sigma subunit']	['8:p', '146:p']	nan
-AP1S2|ENST00000452376|H0Y673|	[144, 145, 146]	[1, 2, 3, 157, 158, 159, 160]	[4, 143, 147, 148, 149, 150, 151, 153, 154, 155, 156]	['IPR022775:AP complex, mu/sigma subunit']	['146:p']	nan
-AP1S2|ENST00000545766|F6SFB5|	[144, 145, 146]	nan	[143]	nan	nan	nan

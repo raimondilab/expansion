@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-BHLHA15|ENST00000609256|Q7RTS1|	nan	nan	nan	nan	nan	nan

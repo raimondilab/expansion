@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CCL3|ENST00000613922|P10147|	nan	nan	nan	nan	nan	nan
-CCL3|ENST00000616221|P10147|	nan	nan	nan	nan	nan	nan

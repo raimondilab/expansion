@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ANXA2R|ENST00000616064|Q3ZCQ2|	nan	nan	nan	nan	nan	nan

@@ -1,4 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-AURKAIP1|ENST00000338338|Q9NWT8|	nan	nan	nan	nan	nan	nan
-AURKAIP1|ENST00000338370|Q9NWT8|	nan	nan	nan	nan	nan	nan
-AURKAIP1|ENST00000378853|Q9NWT8|	nan	nan	nan	nan	nan	nan

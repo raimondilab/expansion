@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-AQP8|ENST00000566125|A0A0C4DGL6|	nan	[1, 2, 3, 4, 5, 6]	nan	['IPR023271:Aquaporin-like']	nan	nan

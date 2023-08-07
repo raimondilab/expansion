@@ -1,5 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-BANF1|ENST00000445560|O75531|	nan	nan	nan	nan	nan	nan
-BANF1|ENST00000527348|O75531|	nan	nan	nan	nan	nan	nan
-BANF1|ENST00000530204|E9PJJ8|	nan	[29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89]	nan	['IPR036617:Barrier-to-autointegration factor, BAF superfamily']	['32:ub', '37:m1', '43:p', '54:ub', '60:m1', '64:ac,ub', '72:ub', '82:m1']	nan
-BANF1|ENST00000533166|O75531|	nan	nan	nan	nan	nan	nan

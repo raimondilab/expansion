@@ -1,3 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-AGAP5|ENST00000443782|J3KQL4|	nan	[78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100]	nan	nan	nan	nan
-AGAP5|ENST00000581191|A0A0D9SFU9|	nan	nan	[97]	nan	nan	nan

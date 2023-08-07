@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CCL24|ENST00000416943|O00175|	nan	nan	nan	nan	nan	nan

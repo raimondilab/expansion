@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CD101|ENST00000369470|Q93033|	nan	nan	nan	nan	nan	nan

@@ -1,7 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-APOC1|ENST00000586638|K7ELM9|	[78, 79, 80, 81, 88, 89, 90, 91, 129]	nan	[66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 82, 83, 84, 85, 86, 87]	['IPR043081:Apolipoprotein C-I domain superfamily']	nan	nan
-APOC1|ENST00000588802|P02654|	nan	nan	nan	nan	nan	nan
-APOC1|ENST00000589078|K7EKP1|	nan	[54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 82, 83, 84, 85, 86, 87]	nan	['IPR043081:Apolipoprotein C-I domain superfamily']	nan	nan
-APOC1|ENST00000589781|K7EPR9|	nan	[30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 82, 83, 84, 85, 86, 87]	[21, 22, 23, 24, 25, 26, 27, 28, 29]	['IPR043081:Apolipoprotein C-I domain superfamily']	nan	nan
-APOC1|ENST00000592535|K7ERI9|	nan	[82, 83, 84, 85, 86, 87]	nan	['IPR043081:Apolipoprotein C-I domain superfamily']	nan	nan
-APOC1|ENST00000592885|K7EPF9|	[78, 79, 80, 81, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129]	nan	[66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 82, 83, 84, 85, 86, 87]	['IPR043081:Apolipoprotein C-I domain superfamily']	nan	nan

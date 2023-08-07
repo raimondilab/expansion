@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ARL4C|ENST00000339728|P56559-2|	[193, 194, 195, 196, 197, 198, 199, 200, 201]	nan	nan	nan	nan	nan

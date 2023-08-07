@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CALHM2|ENST00000369788|Q9HA72-1|	nan	nan	nan	nan	nan	nan

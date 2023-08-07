@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-AOC2|ENST00000452774|O75106-2|	nan	[601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627]	[600]	['IPR036460:Copper amine oxidase, catalytic domain superfamily']	nan	nan

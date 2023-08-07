@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-ALG5|ENST00000443765|Q9Y673-2|	nan	[96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125]	nan	['IPR029044:Nucleotide-diphospho-sugar transferases']	['102:p', '118:ub', '122:ub', '123:p']	nan

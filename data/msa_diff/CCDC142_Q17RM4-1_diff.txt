@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-CCDC142|ENST00000290418|Q17RM4-2|	nan	[420, 421, 422, 423, 424, 425, 426]	nan	nan	nan	nan

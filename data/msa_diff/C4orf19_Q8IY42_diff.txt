@@ -1,2 +1,0 @@
-Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
-C4orf19|ENST00000381980|Q8IY42|	nan	nan	nan	nan	nan	nan
