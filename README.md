@@ -1,12 +1,21 @@
 # EXPANSION
-EXploring Protein AlterNative SplIcing cONsequence 
 
-EXPANSION is a new pipeline and webserver to explore the functional consequences of an input list of protein-coding alternative splice variants, for example differentially expressed (DE) instances from transcriptomics datasets. We combined information of DE protein-coding transcripts from cancer genomics with information of domain architecture, protein interaction network and gene enrichment analysis.
+Welcome to the EXPANSION Complementary Repository!
 
-
-More details can be found at [EXPANSION](http://expansion.bioinfolab.sns.it/)
+Explore the functional implications of protein-coding alternative splice variants with [EXPANSION](https://expansion.bioinfolab.sns.it/), an integrated web-server designed to unravel the impact of alternative splicing in cancer genomics. This repository houses the data, scripts, and resources supporting the research paper. Combined with DE protein-coding transcripts, domain analysis, protein interactions, and gene enrichment, EXPANSION offers an intuitive glimpse into the effects of splice variants. Dive into Ensembl transcripts, Interpro domains, PTMs, and more, to uncover functionally significant splicing events. Analyze pre-calculated or custom DE transcript datasets effortlessly, accelerating your journey to gain insights into protein spliceforms.
 
 
-![cancer_cell_2.svg](https://github.com/raimondilab/expansion/blob/main/expansion_workflow_about.svg)
+## This is the pipeline with a brief description of codes and data used:
+1. gene_list : the list of protein coding genes from [HGNC](https://www.genenames.org/download/statistics-and-files/) 
+2. tx_ensembldb.R: transcript to various annotation such as sequences, length, identifiers etc.
+3. extracting .fa to fasta folder using the command (fasta.sh)
 
+awk -F '\t' '{if($1 !~ "symbol")printf(">%s_%s_%s\n%s\n", $1,$2,$3,$4)}'  /home/carora/splice_pipeline_new3/res_transcripts/${line}_transcripts.csv  | sed 's/"//g' > /home/carora/splice_pipeline_new3/fasta/${line}.fa
 
+4. CD-HIT : cd-hit -d 70 -c 0.6 -t 3 -i /home/carora/splice_pipeline_new3/fasta/${line}.fa -o /home/carora/splice_pipeline_new3/cd_hit/${line}.fa
+   
+5. creating enst2cdhit pickle: ensembl ids to cd-hit cluster mapping
+6. enst_ref_seq.py: all the pickles, clustalo, .hmm file
+   performs multiple sequence alignment of sequences within a cdhit cluster. outputs _ali.fa files
+8. msa_diff_pos_annotate.py
+9. EBSEQ
