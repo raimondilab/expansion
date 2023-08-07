@@ -1,0 +1,2 @@
+symbol	tx_id	uniprot_splice_var	reference	protein_sequence	protein_domain_id	cdhit	Seq_id
+NLRP2B	ENST00000434992	P0DMW2	*	MVSSAQLDFNLQALLGQLSQDDLCKFKSLIRTVSLGNELQKIPQT	SSF47986	0	NLRP2B|ENST00000434992|P0DMW2|*

@@ -1,0 +1,2 @@
+symbol	tx_id	uniprot_splice_var	reference	protein_sequence	protein_domain_id	cdhit	Seq_id
+IGIP	ENST00000333305	A6NJ69	*	MCSYYHMKKRSVSGCNITIFAVMFSHLSAGKSPCGNQANVLCISRLEFVQYQS	-	0	IGIP|ENST00000333305|A6NJ69|*

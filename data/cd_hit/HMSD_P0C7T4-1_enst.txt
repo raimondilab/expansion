@@ -1,0 +1,2 @@
+symbol	tx_id	uniprot_splice_var	reference	protein_sequence	protein_domain_id	cdhit	Seq_id
+HMSD	ENST00000526932	P0C7T4-1	*	MEIFIEVFSHFLLQLTELTLNMCLELPTGSLEKSLMISSQVLQIPVANSTKQR	-	1	HMSD|ENST00000526932|P0C7T4-1|*
