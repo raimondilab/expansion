@@ -18,7 +18,7 @@ Explore the functional implications of protein-coding alternative splice variant
 ## Workflow
 We analyzed Ensembl transcripts  and their corresponding protein sequences. We clustered the protein sequences, aligned them, and compared them to Uniprot canonical sequences to identify differences in alternatively spliced isoforms.
 <div align="center">
-<img src="https://github.com/raimondilab/expansion/blob/main/expansion_workflow_about.svg" alt="logo" width="400"/>
+<img src="https://github.com/raimondilab/expansion/blob/main/expansion_workflow_about.svg" alt="logo" width="600"/>
 </div>
 
 ## The pipeline with a brief description of codes and data used:
