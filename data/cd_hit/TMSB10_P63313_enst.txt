@@ -1,0 +1,2 @@
+symbol	tx_id	uniprot_splice_var	reference	protein_sequence	protein_domain_id	cdhit	Seq_id
+TMSB10	ENST00000233143	P63313	*	MADKPDMGEIASFDKAKLKKTETQEKNTLPTKETIEQEKRSEIS	PS00500	0	TMSB10|ENST00000233143|P63313|*

@@ -1,0 +1,2 @@
+symbol	tx_id	uniprot_splice_var	reference	protein_sequence	protein_domain_id	cdhit	Seq_id
+KRTAP22-2	ENST00000382830	Q3LI68	*	MCYYHNYYGSLDYGCSYGSEYGNSGYACNFPCSYGRFLLAPRKKF	-	0	KRTAP22-2|ENST00000382830|Q3LI68|*
