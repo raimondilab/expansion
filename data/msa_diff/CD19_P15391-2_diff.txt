@@ -1,0 +1,3 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CD19|ENST00000538922|P15391-1|	[496]	nan	nan	nan	nan	"[""495:['P27986']""]"
+CD19|ENST00000567541|-|	[496]	nan	nan	nan	nan	"[""495:['P27986']""]"

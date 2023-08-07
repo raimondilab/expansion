@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CCNA2|ENST00000618014|P20248|	nan	nan	nan	nan	nan	nan

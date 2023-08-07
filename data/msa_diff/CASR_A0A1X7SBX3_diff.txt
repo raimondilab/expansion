@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CASR|ENST00000498619|P41180-2|	[537, 538, 539, 540, 541, 542, 543, 544, 545, 546]	nan	nan	['IPR017978:GPCR family 3, C-terminal']	nan	nan

@@ -1,0 +1,13 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ANAPC11|ENST00000392376|Q9NYG5-1|	nan	nan	nan	nan	nan	nan
+ANAPC11|ENST00000571024|Q9NYG5-1|	nan	nan	nan	nan	nan	nan
+ANAPC11|ENST00000571570|Q9NYG5-1|	nan	nan	nan	nan	nan	nan
+ANAPC11|ENST00000571874|Q9NYG5-1|	nan	nan	nan	nan	nan	nan
+ANAPC11|ENST00000572639|Q9NYG5-1|	nan	nan	nan	nan	nan	nan
+ANAPC11|ENST00000572851|Q9NYG5-1|	nan	nan	nan	nan	nan	nan
+ANAPC11|ENST00000574924|Q9NYG5-1|	nan	nan	nan	nan	nan	nan
+ANAPC11|ENST00000575195|Q9NYG5-1|	nan	nan	nan	nan	nan	nan
+ANAPC11|ENST00000577747|Q9NYG5-1|	nan	nan	nan	nan	nan	nan
+ANAPC11|ENST00000578550|Q9NYG5-1|	nan	nan	nan	nan	nan	nan
+ANAPC11|ENST00000579978|Q9NYG5-1|	nan	nan	nan	nan	nan	nan
+ANAPC11|ENST00000583839|Q9NYG5-1|	nan	nan	nan	nan	nan	nan

@@ -1,0 +1,3 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+AIFM2|ENST00000373248|Q9BRQ8-1|	nan	nan	nan	nan	nan	nan
+AIFM2|ENST00000613322|Q9BRQ8-1|	nan	nan	nan	nan	nan	nan

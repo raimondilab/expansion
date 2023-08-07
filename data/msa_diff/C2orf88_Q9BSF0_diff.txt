@@ -1,0 +1,6 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+C2orf88|ENST00000396974|Q9BSF0|	nan	nan	nan	nan	nan	nan
+C2orf88|ENST00000409545|H7BZ15|	nan	[68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95]	nan	nan	['84:p', '89:p', '92:p']	nan
+C2orf88|ENST00000409870|Q9BSF0|	nan	nan	nan	nan	nan	nan
+C2orf88|ENST00000443551|Q9BSF0|	nan	nan	nan	nan	nan	nan
+C2orf88|ENST00000450357|C9JS57|	nan	[31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95]	nan	nan	['40:p', '66:p', '84:p', '89:p', '92:p']	nan

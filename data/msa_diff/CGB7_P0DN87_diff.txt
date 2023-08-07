@@ -1,0 +1,3 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CGB7|ENST00000596965|P0DN87|	nan	nan	nan	nan	nan	nan
+CGB7|ENST00000597853|P0DN87|	nan	nan	nan	nan	nan	nan

@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CDCA2|ENST00000380665|E9PEI0|	nan	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]	[16, 17, 18, 19, 20]	nan	['6:m2', '13:m2']	nan

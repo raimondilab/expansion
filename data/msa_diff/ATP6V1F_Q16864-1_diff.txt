@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ATP6V1F|ENST00000492758|Q16864-2|	[54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81]	nan	nan	['IPR036906:ATPase, V1 complex, subunit F superfamily']	nan	nan

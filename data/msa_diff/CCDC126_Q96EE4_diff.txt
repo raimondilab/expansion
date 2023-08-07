@@ -1,0 +1,4 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CCDC126|ENST00000409765|Q96EE4|	nan	nan	nan	nan	nan	nan
+CCDC126|ENST00000410069|Q96EE4|	nan	nan	nan	nan	nan	nan
+CCDC126|ENST00000448353|C9J0J0|	nan	[111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140]	nan	nan	['136:p', '138:p']	"[""111:['P42858']"", ""112:['P42858']""]"

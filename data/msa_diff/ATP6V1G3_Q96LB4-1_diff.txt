@@ -1,0 +1,6 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ATP6V1G3|ENST00000367381|Q96LB4-1|	nan	nan	nan	nan	nan	nan
+ATP6V1G3|ENST00000367382|Q96LB4-1|	nan	nan	nan	nan	nan	nan
+ATP6V1G3|ENST00000489986|Q96LB4-4|	[29, 30, 31, 32, 33, 34]	nan	[28]	nan	nan	nan
+ATP6V1G3|ENST00000573121|Q96LB4-1|	nan	nan	nan	nan	nan	nan
+ATP6V1G3|ENST00000575971|Q96LB4-4|	[29, 30, 31, 32, 33, 34]	nan	[28]	nan	nan	nan

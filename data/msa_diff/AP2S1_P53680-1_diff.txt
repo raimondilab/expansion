@@ -1,0 +1,7 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+AP2S1|ENST00000352203|X6R390|	[67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80]	nan	[81]	['IPR022775:AP complex, mu/sigma subunit']	nan	nan
+AP2S1|ENST00000593442|M0R1S0|	nan	[17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66]	[81]	['IPR022775:AP complex, mu/sigma subunit']	['18:ub', '28:ub', '30:ub', '45:ub']	nan
+AP2S1|ENST00000597020|M0QZ21|	nan	[17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]	nan	['IPR022775:AP complex, mu/sigma subunit']	['18:ub']	nan
+AP2S1|ENST00000599990|M0R0N4|	[15, 16]	nan	[17]	['IPR022775:AP complex, mu/sigma subunit']	nan	nan
+AP2S1|ENST00000601498|M0QYZ2|	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]	nan	[17]	['IPR022775:AP complex, mu/sigma subunit']	nan	nan
+AP2S1|ENST00000601649|P53680-2|	nan	[65, 66, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116]	nan	['IPR022775:AP complex, mu/sigma subunit']	['56:ub']	nan

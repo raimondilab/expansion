@@ -1,0 +1,4 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+BCL7A|ENST00000538010|Q4VC05-2|	[186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206]	nan	[208]	nan	nan	nan
+BCL7A|ENST00000635191|Q4VC05-2|	[186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206]	nan	[208]	nan	nan	nan
+BCL7A|ENST00000635403|Q4VC05-1|	nan	nan	nan	nan	nan	nan

@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+APLNR|ENST00000611099|P35414|	nan	nan	nan	nan	nan	nan

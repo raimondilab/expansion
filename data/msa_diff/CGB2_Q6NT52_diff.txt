@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CGB2|ENST00000474913|M0R0E6|	nan	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163]	nan	nan	nan	nan

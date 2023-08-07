@@ -1,0 +1,4 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+BPIFA1|ENST00000375413|Q9NP55-1|	nan	nan	nan	nan	nan	nan
+BPIFA1|ENST00000375422|Q9NP55-1|	nan	nan	nan	nan	nan	nan
+BPIFA1|ENST00000618484|Q9NP55-2|	nan	[17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]	nan	nan	nan	nan

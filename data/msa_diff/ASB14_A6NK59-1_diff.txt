@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ASB14|ENST00000487349|A6NK59-3|	[243]	[60]	[241, 242, 244, 245, 246]	['IPR036770:Ankyrin repeat-containing domain superfamily']	nan	nan

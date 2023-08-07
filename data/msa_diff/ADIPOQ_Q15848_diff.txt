@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ADIPOQ|ENST00000444204|Q15848|	nan	nan	nan	nan	nan	nan

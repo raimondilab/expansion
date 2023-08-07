@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ALG6|ENST00000263440|Q9Y672|	[166, 167]	nan	nan	['IPR010961:Tetrapyrrole biosynthesis, 5-aminolevulinic acid synthase']	nan	nan

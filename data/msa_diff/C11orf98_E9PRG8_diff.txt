@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+C11orf98|ENST00000525675|A0A494BXY3|	[114, 115, 116, 117]	[86, 87, 88, 126, 127]	[89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 118, 119, 120, 122, 123, 124]	nan	nan	nan

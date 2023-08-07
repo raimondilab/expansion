@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+BUB1B|ENST00000412359|O60566-3|	[81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94]	nan	nan	['IPR013212:Mad3/Bub1 homology region 1']	nan	"[""80:['Q12834', 'Q6XZF7', 'Q8NG31-2', 'Q8NG31-2', 'Q8NG31-2', 'Q8NG31-2', 'Q8NG31-2', 'Q8NG31-2', 'Q8NG31-2', 'Q8NG31-2', 'Q8NG31-2', 'Q8NG31-2']""]"

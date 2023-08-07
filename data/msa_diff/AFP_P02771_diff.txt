@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+AFP|ENST00000226359|J3KMX3|	[610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622]	nan	[597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609]	['IPR014760_6:Serum albumin, N-terminal']	nan	nan

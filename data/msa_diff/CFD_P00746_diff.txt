@@ -1,0 +1,4 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CFD|ENST00000592860|K7ERG9|	[20, 21, 22, 23, 24, 25, 26]	nan	[19]	['IPR009003:Peptidase S1, PA clan']	nan	nan
+CFD|ENST00000617994|P00746|	nan	nan	nan	nan	nan	nan
+CFD|ENST00000632706|K7ERG9|	[20, 21, 22, 23, 24, 25, 26]	nan	[19]	['IPR009003:Peptidase S1, PA clan']	nan	nan

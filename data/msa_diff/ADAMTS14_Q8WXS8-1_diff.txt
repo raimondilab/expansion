@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ADAMTS14|ENST00000373208|Q8WXS8-4|	[368, 369, 370]	nan	nan	['IPR024079:Metallopeptidase, catalytic domain superfamily']	nan	nan

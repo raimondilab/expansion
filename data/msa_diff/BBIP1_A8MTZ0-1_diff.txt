@@ -1,0 +1,5 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+BBIP1|ENST00000423273|A8MTZ0-3|	nan	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]	[26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37]	nan	['28:p']	nan
+BBIP1|ENST00000436562|A8MTZ0-2|	nan	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]	nan	nan	nan	nan
+BBIP1|ENST00000447005|A8MTZ0-2|	nan	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]	nan	nan	nan	nan
+BBIP1|ENST00000605742|A8MTZ0-1|	nan	nan	nan	nan	nan	nan

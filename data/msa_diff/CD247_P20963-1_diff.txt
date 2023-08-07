@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CD247|ENST00000392122|P20963-3|	nan	[102]	[101]	nan	nan	"[""101:['Q9Y2R2', 'P06239']"", ""102:['Q9Y2R2', 'P06239']""]"

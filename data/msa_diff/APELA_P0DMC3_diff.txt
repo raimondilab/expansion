@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+APELA|ENST00000515275|P0DMC3|	nan	nan	nan	nan	nan	nan

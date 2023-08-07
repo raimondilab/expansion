@@ -1,0 +1,3 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CDC42SE1|ENST00000439374|Q9NRR8-1|	nan	nan	nan	nan	nan	nan
+CDC42SE1|ENST00000540998|Q9NRR8-1|	nan	nan	nan	nan	nan	nan

@@ -1,0 +1,3 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+C18orf32|ENST00000582392|Q8TCD1|	nan	nan	nan	nan	nan	nan
+C18orf32|ENST00000613385|Q8TCD1|	nan	nan	nan	nan	nan	nan

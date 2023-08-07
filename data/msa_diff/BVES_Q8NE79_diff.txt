@@ -1,0 +1,3 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+BVES|ENST00000336775|Q8NE79|	nan	nan	nan	nan	nan	nan
+BVES|ENST00000446408|Q8NE79|	nan	nan	nan	nan	nan	nan

@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ANKAR|ENST00000520309|Q7Z5J8-1|	nan	nan	nan	nan	nan	nan

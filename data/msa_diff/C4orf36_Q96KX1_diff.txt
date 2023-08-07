@@ -1,0 +1,4 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+C4orf36|ENST00000473559|-|	nan	nan	nan	nan	nan	nan
+C4orf36|ENST00000504008|D6RAE1|	nan	[82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117]	nan	nan	['116:p']	nan
+C4orf36|ENST00000506308|D6RGW9|	nan	[114, 115, 116, 117]	nan	nan	['116:p']	nan

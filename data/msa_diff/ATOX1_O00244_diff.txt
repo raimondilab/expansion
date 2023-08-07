@@ -1,0 +1,6 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ATOX1|ENST00000520382|E5RGN3|	nan	[6, 7, 8, 9, 10, 11, 12, 13, 14]	nan	['IPR006121:Heavy metal-associated domain, HMA']	['7:p']	nan
+ATOX1|ENST00000521264|E5RIM7|	[1, 2, 3, 4, 5]	nan	[6, 7]	nan	nan	nan
+ATOX1|ENST00000522314|E5RGN3|	nan	[6, 7, 8, 9, 10, 11, 12, 13, 14]	nan	['IPR006121:Heavy metal-associated domain, HMA']	['7:p']	nan
+ATOX1|ENST00000522710|O00244|	nan	nan	nan	nan	nan	nan
+ATOX1|ENST00000524142|O00244|	nan	nan	nan	nan	nan	nan

@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CAV3|ENST00000397368|P56539|	nan	nan	nan	nan	nan	nan

@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+C1QTNF8|ENST00000621771|A0A087WV55|	[104, 105, 106, 107]	nan	[72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 89, 90, 91, 92, 93, 95, 96, 99, 101, 102, 103, 108, 109, 110, 111, 113, 114]	['IPR008983:Tumour necrosis factor-like domain superfamily']	['84:p']	nan

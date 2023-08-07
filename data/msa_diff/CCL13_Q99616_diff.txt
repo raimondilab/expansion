@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CCL13|ENST00000577681|J3QLQ9|	nan	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 57, 58, 59, 60, 61, 62, 63]	[29, 64]	['IPR036048:Chemokine interleukin-8-like superfamily']	nan	nan

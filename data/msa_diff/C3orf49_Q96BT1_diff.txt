@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+C3orf49|ENST00000616659|A0A087WV64|	nan	nan	[287, 288, 291]	nan	nan	nan

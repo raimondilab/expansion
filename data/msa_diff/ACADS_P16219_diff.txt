@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ACADS|ENST00000411593|E9PE82|	[200, 201, 202, 203, 204]	[168, 169, 170, 171, 172, 173, 174, 175, 185]	[159, 160, 161, 162, 163, 164, 165, 166, 167, 176, 177, 178, 180, 181, 182, 183, 184, 186, 187, 188, 189, 190, 191, 193, 194, 196, 197, 199, 205, 206, 207, 208, 209, 211, 212, 213]	['IPR009100:Acyl-CoA dehydrogenase/oxidase, N-terminal and middle domain superfamily']	nan	nan

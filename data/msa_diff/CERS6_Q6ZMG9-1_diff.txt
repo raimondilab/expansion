@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CERS6|ENST00000392687|Q6ZMG9-2|	[335, 336, 337, 338, 339, 340, 341, 342]	nan	nan	nan	nan	nan

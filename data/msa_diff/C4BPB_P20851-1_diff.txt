@@ -1,0 +1,5 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+C4BPB|ENST00000367076|P20851-2|	nan	[20]	nan	nan	nan	nan
+C4BPB|ENST00000367078|P20851-1|	nan	nan	nan	nan	nan	nan
+C4BPB|ENST00000391923|P20851-1|	nan	nan	nan	nan	nan	nan
+C4BPB|ENST00000452902|Q5VVQ7|	nan	[182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252]	nan	['IPR035976:Sushi/SCR/CCP superfamily']	['199:ub', '204:ub', '227:ub', '237:ub', '239:p']	nan

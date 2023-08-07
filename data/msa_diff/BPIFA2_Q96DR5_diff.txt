@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+BPIFA2|ENST00000354932|Q96DR5|	nan	nan	nan	nan	nan	nan

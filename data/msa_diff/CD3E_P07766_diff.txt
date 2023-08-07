@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CD3E|ENST00000528600|E9PSH8|	nan	[30, 31, 32, 33, 34, 35]	[29]	['IPR013783:Immunoglobulin-like fold']	nan	nan

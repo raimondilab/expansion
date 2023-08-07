@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+C2orf50|ENST00000405022|Q96LR7|	nan	nan	nan	nan	nan	nan

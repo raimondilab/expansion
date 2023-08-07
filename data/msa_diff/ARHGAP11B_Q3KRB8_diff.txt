@@ -1,0 +1,4 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ARHGAP11B|ENST00000621228|-|	nan	nan	nan	nan	nan	nan
+ARHGAP11B|ENST00000622744|-|	nan	nan	nan	nan	nan	nan
+ARHGAP11B|ENST00000633373|-|	nan	nan	nan	nan	nan	nan

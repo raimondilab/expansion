@@ -33,7 +33,13 @@ cd-hit -d 70 -c 0.6 -t 3 -i /home/carora/splice_pipeline_new3/fasta/${line}.fa -
    performs multiple sequence alignment of sequences within a cdhit cluster. outputs _ali.fa files
 8. msa_diff_pos_annotate.py
 9. EBSEQ
-    
+
+## Workflow
+We analyzed Ensembl transcripts  and their corresponding protein sequences. We clustered the protein sequences, aligned them, and compared them to Uniprot canonical sequences to identify differences in alternatively spliced isoforms.
+<div align="center">
+<img src="https://github.com/raimondilab/expansion/blob/main/expansion_workflow_about.svg" alt="logo" width="400"/>
+</div>
+
 ### Contacts 
 Francesco Raimondi: francesco.raimondi@sns.it<br>
 Chakit Arora: chakit.arora@sns.it<br>

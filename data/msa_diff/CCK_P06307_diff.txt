@@ -1,0 +1,3 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CCK|ENST00000396169|P06307|	nan	nan	nan	nan	nan	nan
+CCK|ENST00000434608|P06307|	nan	nan	nan	nan	nan	nan

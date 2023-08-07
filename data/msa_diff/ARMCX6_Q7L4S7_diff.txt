@@ -1,0 +1,3 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ARMCX6|ENST00000538627|Q7L4S7|	nan	nan	nan	nan	nan	nan
+ARMCX6|ENST00000539247|Q7L4S7|	nan	nan	nan	nan	nan	nan

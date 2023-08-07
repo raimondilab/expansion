@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CBLN1|ENST00000536749|P23435|	nan	nan	nan	nan	nan	nan

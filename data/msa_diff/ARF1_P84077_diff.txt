@@ -1,0 +1,3 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ARF1|ENST00000540651|P84077|	nan	nan	nan	nan	nan	nan
+ARF1|ENST00000541182|P84077|	nan	nan	nan	nan	nan	nan

@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ATXN1|ENST00000436367|P54253-1|	nan	nan	nan	nan	nan	nan

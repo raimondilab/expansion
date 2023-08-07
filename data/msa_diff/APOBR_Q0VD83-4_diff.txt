@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+APOBR|ENST00000431282|A0A4V7I447|	nan	[352, 353, 354, 355, 356, 357, 358, 359, 360]	nan	nan	nan	nan

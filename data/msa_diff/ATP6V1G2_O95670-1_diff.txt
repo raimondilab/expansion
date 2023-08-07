@@ -1,0 +1,9 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ATP6V1G2|ENST00000383503|O95670-1|	nan	nan	nan	nan	nan	nan
+ATP6V1G2|ENST00000415099|H0Y474|	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 52]	nan	[40, 41, 42, 43, 44, 46, 47, 48, 49, 50, 53, 55, 56, 57, 58, 59, 60, 61, 62, 64, 65, 66, 67]	nan	['3:p', '16:ub']	nan
+ATP6V1G2|ENST00000441959|O95670-1|	nan	nan	nan	nan	nan	nan
+ATP6V1G2|ENST00000444088|O95670-1|	nan	nan	nan	nan	nan	nan
+ATP6V1G2|ENST00000449748|O95670-1|	nan	nan	nan	nan	nan	nan
+ATP6V1G2|ENST00000454370|O95670-1|	nan	nan	nan	nan	nan	nan
+ATP6V1G2|ENST00000454889|O95670-1|	nan	nan	nan	nan	nan	nan
+ATP6V1G2|ENST00000483251|O95670-3|	nan	[40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81]	nan	nan	['3:p', '16:ub']	nan

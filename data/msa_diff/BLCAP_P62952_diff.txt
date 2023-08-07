@@ -1,0 +1,9 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+BLCAP|ENST00000397131|P62952|	nan	nan	nan	nan	nan	nan
+BLCAP|ENST00000397134|P62952|	nan	nan	nan	nan	nan	nan
+BLCAP|ENST00000397135|P62952|	nan	nan	nan	nan	nan	nan
+BLCAP|ENST00000397137|P62952|	nan	nan	nan	nan	nan	nan
+BLCAP|ENST00000414080|A2A2K9|	nan	[63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87]	nan	nan	nan	nan
+BLCAP|ENST00000414542|P62952|	nan	nan	nan	nan	nan	nan
+BLCAP|ENST00000432507|P62952|	nan	nan	nan	nan	nan	nan
+BLCAP|ENST00000445723|A2A2K8|	nan	[79, 80, 81, 82, 83, 84, 85, 86, 87]	nan	nan	nan	nan

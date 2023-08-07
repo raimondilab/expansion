@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+B3GNT2|ENST00000405767|Q9NY97-1|	nan	nan	nan	nan	nan	nan

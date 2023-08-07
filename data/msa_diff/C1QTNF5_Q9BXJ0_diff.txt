@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+C1QTNF5|ENST00000530681|Q9BXJ0|	nan	nan	nan	nan	nan	nan

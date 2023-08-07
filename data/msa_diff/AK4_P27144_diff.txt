@@ -1,0 +1,4 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+AK4|ENST00000395334|P27144|	nan	nan	nan	nan	nan	nan
+AK4|ENST00000545314|P27144|	nan	nan	nan	nan	nan	nan
+AK4|ENST00000546702|F8VS11|	nan	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]	nan	['IPR027417:P-loop containing nucleoside triphosphate hydrolase']	['4:ac']	nan

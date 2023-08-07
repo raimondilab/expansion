@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CDY2A|ENST00000426790|C9JMH9|	[542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555]	nan	[533, 534, 535, 536, 537, 538, 539, 540, 541]	nan	nan	nan

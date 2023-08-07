@@ -1,0 +1,5 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CDKN1A|ENST00000373711|P38936|	nan	nan	nan	nan	nan	nan
+CDKN1A|ENST00000405375|P38936|	nan	nan	nan	nan	nan	nan
+CDKN1A|ENST00000448526|P38936|	nan	nan	nan	nan	nan	nan
+CDKN1A|ENST00000615513|P38936|	nan	nan	nan	nan	nan	nan

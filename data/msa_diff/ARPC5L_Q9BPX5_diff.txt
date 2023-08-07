@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ARPC5L|ENST00000353214|Q9BPX5|	nan	nan	nan	nan	nan	nan

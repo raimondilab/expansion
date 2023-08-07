@@ -1,0 +1,5 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+B3GALT5|ENST00000380618|Q9Y2C3|	nan	nan	nan	nan	nan	nan
+B3GALT5|ENST00000380620|Q9Y2C3|	nan	nan	nan	nan	nan	nan
+B3GALT5|ENST00000398714|A0A0A0MS93|	[1, 2, 3, 4]	nan	nan	nan	nan	nan
+B3GALT5|ENST00000615480|Q9Y2C3|	nan	nan	nan	nan	nan	nan

@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CDCA4|ENST00000392590|Q9BXL8|	nan	nan	nan	nan	nan	nan

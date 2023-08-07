@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ACSM6|ENST00000394005|Q6P461-1|	nan	nan	nan	nan	nan	nan

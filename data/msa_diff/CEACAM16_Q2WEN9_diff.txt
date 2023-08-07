@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CEACAM16|ENST00000587331|Q2WEN9|	nan	nan	nan	nan	nan	nan

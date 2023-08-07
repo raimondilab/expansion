@@ -1,0 +1,4 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CDYL2|ENST00000562812|A0A0B4J291|	[207]	nan	nan	nan	nan	nan
+CDYL2|ENST00000563890|A0A0B4J291|	[207]	nan	nan	nan	nan	nan
+CDYL2|ENST00000566173|A0A0B4J291|	[207]	nan	nan	nan	nan	nan

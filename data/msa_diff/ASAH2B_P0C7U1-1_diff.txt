@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ASAH2B|ENST00000374007|P0C7U1-2|	nan	[13, 14, 15, 16, 17]	[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 18, 19, 20, 21, 22, 23, 24, 25, 27, 28, 29]	['IPR038445:Neutral ceramidase, C-terminal domain superfamily']	nan	nan

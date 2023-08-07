@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+AJAP1|ENST00000378191|Q9UKB5|	nan	nan	nan	nan	nan	nan

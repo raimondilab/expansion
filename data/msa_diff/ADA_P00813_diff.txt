@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ADA|ENST00000537820|F5GWI4|	nan	[203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226]	nan	['IPR032466:Metal-dependent hydrolase']	['206:ub', '225:ub']	nan

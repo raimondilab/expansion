@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ATP12A|ENST00000218548|P54707-2|	[267, 268, 269, 270, 271, 272]	nan	nan	['IPR023298:P-type ATPase, transmembrane domain superfamily']	nan	nan

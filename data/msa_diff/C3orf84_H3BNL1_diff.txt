@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+C3orf84|ENST00000432035|H3BQU4|	[67]	nan	nan	['IPR029369:Domain of unknown function with conserved HDNR motif']	nan	nan

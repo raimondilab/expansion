@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CD40LG|ENST00000370628|Q3L8U2|	nan	[115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135]	[136]	['IPR008983:Tumour necrosis factor-like domain superfamily']	nan	nan

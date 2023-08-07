@@ -1,0 +1,3 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+BAHD1|ENST00000560846|Q8TBE0-3|	nan	[685, 686, 687]	nan	['IPR043151:Bromo adjacent homology (BAH) domain superfamily']	nan	nan
+BAHD1|ENST00000561234|Q8TBE0-2|	nan	[477]	[478]	nan	nan	nan

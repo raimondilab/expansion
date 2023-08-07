@@ -1,0 +1,5 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CEBPZOS|ENST00000397064|A8MTT3|	nan	nan	nan	nan	nan	nan
+CEBPZOS|ENST00000397226|A8MTT3|	nan	nan	nan	nan	nan	nan
+CEBPZOS|ENST00000402297|A8MTT3|	nan	nan	nan	nan	nan	nan
+CEBPZOS|ENST00000406711|A8MTT3|	nan	nan	nan	nan	nan	nan

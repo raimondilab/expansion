@@ -1,0 +1,8 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+C21orf62|ENST00000382373|H7BYF8|	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 50, 51]	nan	[46, 47, 48, 52, 53, 54, 55, 56, 57, 58, 59]	nan	nan	nan
+C21orf62|ENST00000487113|Q9NYP8|	nan	nan	nan	nan	nan	nan
+C21orf62|ENST00000490358|Q9NYP8|	nan	nan	nan	nan	nan	nan
+C21orf62|ENST00000571812|Q9NYP8|	nan	nan	nan	nan	nan	nan
+C21orf62|ENST00000573131|H7BYF8|	[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 50, 51]	nan	[46, 47, 48, 52, 53, 54, 55, 56, 57, 58, 59]	nan	nan	nan
+C21orf62|ENST00000576061|Q9NYP8|	nan	nan	nan	nan	nan	nan
+C21orf62|ENST00000576372|Q9NYP8|	nan	nan	nan	nan	nan	nan

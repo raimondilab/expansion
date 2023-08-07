@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+CCL16|ENST00000621559|O15467|	nan	nan	nan	nan	nan	nan

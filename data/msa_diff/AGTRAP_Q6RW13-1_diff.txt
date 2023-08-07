@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+AGTRAP|ENST00000376629|Q6RW13-2|	nan	[115, 116, 117, 118, 119, 120, 121]	nan	nan	nan	nan

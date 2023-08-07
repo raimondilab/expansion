@@ -1,0 +1,2 @@
+Isoforms_id	Insertions	Deletions	Divergent_positions	InterproDomains	PTMs	BindRegs
+ADAM23|ENST00000374415|E7EWD3|	nan	nan	[787, 788, 789, 792, 793, 794, 797, 798, 801, 804, 805, 806, 807, 808, 809, 816, 817]	nan	nan	nan
