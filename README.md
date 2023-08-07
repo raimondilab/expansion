@@ -1,4 +1,15 @@
-# EXPANSION
+![action main](https://github.com/raimondilab/precogx/actions/workflows/main.yml/badge.svg)
+
+EXploring
+Protein
+AlterNative
+SplIcing
+cONsequence 
+
+<div align="center">
+<img src="https://github.com/raimondilab/expansion/blob/main/expansion_home.svg" alt="logo" width="400"/>
+</div>
+<br>
 
 Welcome to the EXPANSION Complementary Repository!
 
@@ -15,12 +26,15 @@ awk -F '\t' '{if($1 !~ "symbol")printf(">%s_%s_%s\n%s\n", $1,$2,$3,$4)}'  /home/
 
 4. CD-HIT :
 ```
-   cd-hit -d 70 -c 0.6 -t 3 -i /home/carora/splice_pipeline_new3/fasta/${line}.fa -o /home/carora/splice_pipeline_new3/cd_hit/${line}.fa
+cd-hit -d 70 -c 0.6 -t 3 -i /home/carora/splice_pipeline_new3/fasta/${line}.fa -o /home/carora/splice_pipeline_new3/cd_hit/${line}.fa
 ```
 6. creating enst2cdhit pickle: ensembl ids to cd-hit cluster mapping
 7. enst_ref_seq.py: all the pickles, clustalo, .hmm file
    performs multiple sequence alignment of sequences within a cdhit cluster. outputs _ali.fa files
 8. msa_diff_pos_annotate.py
 9. EBSEQ
-
-![expansion_workflow_about.svg](https://github.com/raimondilab/expansion/blob/main/expansion_workflow_about.svg)
+    
+### Contacts 
+Francesco Raimondi: francesco.raimondi@sns.it<br>
+Chakit Arora: chakit.arora@sns.it<br>
+Natalia de Oliveira Rosa: natalia.deoliveirarosa@sns.it
