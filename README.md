@@ -1,4 +1,4 @@
-![action main](https://github.com/raimondilab/precogx/actions/workflows/main.yml/badge.svg)
+[![DOI](https://zenodo.org/badge/675593865.svg)](https://zenodo.org/badge/latestdoi/675593865)
 
 EXploring
 Protein
